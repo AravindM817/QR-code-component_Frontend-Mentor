@@ -26,13 +26,14 @@ p {
     letter-spacing: 0.2px;
     text-align: center;
     margin: 15px 25px 30px 25px;
+    color: hsl(216, 15%, 48%);
 }
 
 .container {
     max-width: 320px;
     max-height: 499px;
     margin: 0 auto;
-    margin-top: 20%;
+    margin-top: 19%;
     display: flex;
     justify-content: center; 
     align-items: center; 
